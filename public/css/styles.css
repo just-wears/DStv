@@ -169,12 +169,9 @@ img {
   margin-top: 0%;
 }
 
-.footer p {
-  margin-top: 25px;
-  font-size: 12px;
-  color: #fff;
-}
+a href {
+  color: #fff; }
 
 .fa-brands {
-  padding-left: 20px;
+  padding-left: 5%;
 }
